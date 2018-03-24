@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Farbenraten</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcomeToGuessCollour">Willkommen beim Farbenraten</string>
+    <string name="startGame">Spiel Starten</string>
+</resources>
